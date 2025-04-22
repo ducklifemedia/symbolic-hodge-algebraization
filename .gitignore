@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output images (optional)
+*.png
+figures/
+images/
+
+# Cache and logs
+*.log
+*.sqlite3
+*.csv
