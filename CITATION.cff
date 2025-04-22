@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Symbolic Algebraization of Rational Hodge Classes"
+authors:
+  - family-names: Campos Espinoza
+    given-names: Daniel Iván
+    email: danielcampos.cl@gmail.com
+date-released: 2025-04-22
+version: 1.0.0
+doi: 10.48550/arXiv.2404.xxxxx  # cámbialo cuando tengas el DOI de arXiv
+license: MIT
+repository-code: https://github.com/ducklifemedia/symbolic-hodge-algebraization
+url: https://github.com/ducklifemedia/symbolic-hodge-algebraization
+abstract: >
+  This repository contains the full symbolic operator Ŝ implementation,
+  convergence simulations over K3 and Calabi–Yau varieties, and notebooks
+  accompanying the preprint “Symbolic Algebraization of Rational Hodge Classes”.

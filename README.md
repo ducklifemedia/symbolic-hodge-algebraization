@@ -56,6 +56,7 @@ We introduce a symbolic operator \( \widehat{\mathcal{S}} := \Lambda \circ \Pi_{
 │   └── README_extended.md
 └── requirements.txt
 └── README.md
+└── CITATION.cff
 
 
 🚀 Getting Started
